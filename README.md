@@ -11,3 +11,5 @@ Instructions:
 Switch off:
 
 Go to the task manager, find roshan.exe and turn off the process
+
+**Important: the execution does not work if you have a game window active, just click on any other application, alt tab or on the desktop and then "K". In this case, this application IS NOT a script, because it does not interact with the game**
