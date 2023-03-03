@@ -7,3 +7,7 @@ Instructions:
 3. Press the hot key "K"
 
 4. A ready Roshan respawn timer is copied to your clipboard
+
+Switch off:
+
+Go to the task manager, find roshan.exe and turn off the process
