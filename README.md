@@ -1,4 +1,4 @@
-# aegis-timer3.0
+# Aegis Timer V3
 Instructions: 
 1. Run Aegis.exe, a script is added to the background
 
